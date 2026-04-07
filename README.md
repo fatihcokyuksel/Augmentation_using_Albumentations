@@ -43,7 +43,9 @@ yolo_test_1/
   
 Betiği çalıştırın:  
   
-`python augmentation_script.py`  
+```
+python augmentation_script.py
+```  
   
 İşlem tamamlandığında **augmented_data** klasöründe hem orijinal hem de türetilmiş verileri hazır bir şekilde bulacaksınız.  
   
