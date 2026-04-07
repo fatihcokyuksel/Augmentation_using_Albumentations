@@ -17,10 +17,13 @@ Bu Python betiği, Albumentations kütüphanesini kullanarak YOLO formatındaki 
   
 + Çoğaltma: Her bir görselden belirtilen sayıda (AUGMENT_COUNT) farklı varyasyon üretir.  
   
-🛠️ **Kurulum**
+🛠️ **Kurulum**  
+  
 Gerekli kütüphaneleri yüklemek için:
 
-```pip install opencv-python albumentations tqdm```  
+```
+pip install opencv-python albumentations tqdm
+```  
 
 📂 **Dosya Yapısı**
 Kodun çalışması için veri setinizin aşağıdaki yapıda olması gerekir:  
